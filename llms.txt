@@ -10,7 +10,7 @@ Keywords: text-to-speech, elevenlabs, agentic-suite, claude-code, codex, cli, mc
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-speech
-- Core contract: https://github.com/pooriaarab/agentic-speech/blob/main/docs/agentic-core.md
-- Speech setup: https://github.com/pooriaarab/agentic-speech/blob/main/docs/speech.md
+- README: https://github.com/itsryanarmani/agentic-speech
+- Core contract: https://github.com/itsryanarmani/agentic-speech/blob/main/docs/agentic-core.md
+- Speech setup: https://github.com/itsryanarmani/agentic-speech/blob/main/docs/speech.md
 - License: MIT

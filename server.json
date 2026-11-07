@@ -4,7 +4,7 @@
   "description": "Route text to speech across ElevenLabs, OpenAI, and Cartesia.",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-speech",
+    "url": "https://github.com/itsryanarmani/agentic-speech",
     "source": "github",
     "id": 1413725963
   },
